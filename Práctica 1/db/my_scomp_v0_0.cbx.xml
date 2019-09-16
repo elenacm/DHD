@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="my_scomp_v0_0">
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_scomp_v0_0|IP_RAM_256_x_16:MEM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_dfi1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

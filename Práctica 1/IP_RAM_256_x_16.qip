@@ -1,0 +1,4 @@
+set_global_assignment -name IP_TOOL_NAME "RAM: 1-PORT"
+set_global_assignment -name IP_TOOL_VERSION "12.0"
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "IP_RAM_256_x_16.vhd"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "IP_RAM_256_x_16.cmp"]

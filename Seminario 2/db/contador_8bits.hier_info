@@ -1,0 +1,27 @@
+|contador_8bits
+Reloj => Contador[0].CLK
+Reloj => Contador[1].CLK
+Reloj => Contador[2].CLK
+Reloj => Contador[3].CLK
+Reloj => Contador[4].CLK
+Reloj => Contador[5].CLK
+Reloj => Contador[6].CLK
+Reloj => Contador[7].CLK
+Reset => Contador[0].ACLR
+Reset => Contador[1].ACLR
+Reset => Contador[2].ACLR
+Reset => Contador[3].ACLR
+Reset => Contador[4].ACLR
+Reset => Contador[5].ACLR
+Reset => Contador[6].ACLR
+Reset => Contador[7].ACLR
+Salida[0] <= Contador[0].DB_MAX_OUTPUT_PORT_TYPE
+Salida[1] <= Contador[1].DB_MAX_OUTPUT_PORT_TYPE
+Salida[2] <= Contador[2].DB_MAX_OUTPUT_PORT_TYPE
+Salida[3] <= Contador[3].DB_MAX_OUTPUT_PORT_TYPE
+Salida[4] <= Contador[4].DB_MAX_OUTPUT_PORT_TYPE
+Salida[5] <= Contador[5].DB_MAX_OUTPUT_PORT_TYPE
+Salida[6] <= Contador[6].DB_MAX_OUTPUT_PORT_TYPE
+Salida[7] <= Contador[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
