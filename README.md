@@ -1,4 +1,4 @@
-# DHD
+# DHD (Desarrollo Hardware Digital)
 
 ## Material subido:
    - Práctica 1 y 2 -> PDF con la explicación de la práctica y los archivos con la práctica resuelta.
